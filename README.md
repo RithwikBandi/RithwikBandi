@@ -1,59 +1,44 @@
-# Hi 👋 I'm Rithwik Bandi
+<h1 align="center">Hi 👋, I'm Rithwik Bandi</h1>
+<h3 align="center">Full Stack Developer | AI & ML Enthusiast</h3>
 
-💻 Computer Science Student | Full Stack Developer | AI & ML Enthusiast  
-
-I enjoy building **real-world applications**, working with **machine learning**, and developing **scalable web systems**.
-
----
-
-## 🚀 Tech Stack
-
-**Frontend**
-- React
-- Vite
-- JavaScript
-- HTML / CSS
-
-**Backend**
-- Node.js
-- Express
-
-**Database**
-- MongoDB
-- MySQL
-
-**AI / ML**
-- Python
-- TensorFlow
-- Scikit-learn
-- Pandas
-- Matplotlib
+<p align="center">
+Computer Science student passionate about building real-world applications,
+machine learning systems, and scalable web platforms.
+</p>
 
 ---
 
-## 📌 Current Projects
+### 🛠 Tech Stack
 
-- **JobSpace** – Job search workspace platform  
-- **Cardio Risk Prediction** – Machine learning health prediction model  
-- **Student Dashboard System** – full stack student analytics dashboard  
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=react,vite,js,html,css,nodejs,express,mongodb,mysql,python,tensorflow,git,github,vscode" />
 
-## 📊 GitHub Stats
-
-![Rithwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=RithwikBandi&show_icons=true&theme=radical)
+</p>
 
 ---
 
-## 🔥 Contribution Streak
+### 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RithwikBandi&theme=radical)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RithwikBandi&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RithwikBandi&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 🌐 Connect With Me
+### 🚀 Current Focus
 
-LinkedIn: (Add your LinkedIn)  
-Portfolio: (Add later)
+• Full Stack Development  
+• Machine Learning Projects  
+• Scalable Web Applications  
 
 ---
+
+### 🌐 Connect
+
+LinkedIn: *(add later)*  
+Portfolio: *(coming soon)*
