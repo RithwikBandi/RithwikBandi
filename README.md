@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋 I'm Rithwik Bandi
 
-<!--
-**RithwikBandi/RithwikBandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student | Full Stack Developer | AI & ML Enthusiast  
 
-Here are some ideas to get you started:
+I enjoy building **real-world applications**, working with **machine learning**, and developing **scalable web systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+**Frontend**
+- React
+- Vite
+- JavaScript
+- HTML / CSS
+
+**Backend**
+- Node.js
+- Express
+
+**Database**
+- MongoDB
+- MySQL
+
+**AI / ML**
+- Python
+- TensorFlow
+- Scikit-learn
+- Pandas
+- Matplotlib
+
+---
+
+## 📌 Current Projects
+
+- **JobSpace** – Job search workspace platform  
+- **Cardio Risk Prediction** – Machine learning health prediction model  
+- **Student Dashboard System** – full stack student analytics dashboard  
+
+---
+
+## 📊 GitHub Stats
+
+![Rithwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=RithwikBandi&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RithwikBandi&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn: (Add your LinkedIn)  
+Portfolio: (Add later)
+
+---
