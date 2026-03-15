@@ -40,5 +40,5 @@ machine learning systems, and scalable web platforms.
 
 ### 🌐 Connect
 
-LinkedIn: *(add later)*  
-Portfolio: *(coming soon)*
+LinkedIn: *(https://www.linkedin.com/in/rithwik-bandi/)*  
+Portfolio: *(https://www.rithwikbandi.tech)*
