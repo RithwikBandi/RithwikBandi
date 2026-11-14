@@ -66,7 +66,7 @@ I'm a **Computer Science student at SR University (Warangal)** who builds real p
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vite,ts,js,tailwind,html,css,nodejs,express,fastapi,mongodb,mysql,firebase,python,tensorflow,threejs,git,github,vercel,vscode&perline=10&theme=light" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cvite%2Cts%2Cjs%2Ctailwind%2Chtml%2Ccss%2Cnodejs%2Cexpress%2Cfastapi%2Cmongodb%2Cmysql%2Cfirebase%2Cpython%2Ctensorflow%2Cthreejs%2Cgit%2Cgithub%2Cvercel%2Cvscode&perline=10&theme=light" />
   <img src="https://skillicons.dev/icons?i=react,vite,ts,js,tailwind,html,css,nodejs,express,fastapi,mongodb,mysql,firebase,python,tensorflow,threejs,git,github,vercel,vscode&perline=10&theme=dark" alt="Tech stack icons" />
 </picture>
 </div>
