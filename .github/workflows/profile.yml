@@ -1,0 +1,50 @@
+name: Profile visuals
+
+# Generates the 3D contribution city and the contribution snake that the README embeds.
+# Runs on every push to main, daily, and on demand (Actions tab -> Profile visuals -> Run workflow).
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  contrib-3d:
+    name: 3D contribution city
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit and push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A profile-3d-contrib
+          if git commit -m "chore: refresh 3D contribution graph"; then
+            git push
+          fi
+
+  snake:
+    name: Contribution snake
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3.5.0
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v5.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
