@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Rithwik Bandi - Full Stack Developer, AI and ML builder, founder of Pixels & code Studios, building in public" />
+<img src="assets/hero.svg" width="100%" alt="Rithwik Bandi - Full Stack Developer, AI and ML builder, founder of Pixels and Code Studios, building in public" />
 
 <br/>
 
